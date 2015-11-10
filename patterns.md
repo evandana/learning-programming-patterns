@@ -1,12 +1,12 @@
 <!-- MarkdownTOC -->
 
-- [Expressive JavaScript](#l-expressive-javascript)
-- [Interfaces](#l-interfaces)
+- [Expressive JavaScript](#expressive-javascript)
+- [Interfaces](#interfaces)
 - [Module](#module)
-- [MV*, MVC, MVVM](#l-mvc)
-- [Singleton](#l-singleton)
-- [Factory/template](#l-factory)
-- [Proxy](#l-proxy)
+- [MV*, MVC, MVVM](#mv-mvc-mvvm)
+- [Singleton](#singleton)
+- [Factory/template](#factorytemplate)
+- [Proxy](#proxy)
 
 <!-- /MarkdownTOC -->
 
@@ -14,8 +14,8 @@
 ### Resources
 Pro JavaScript Design Patterns, Ross Harmes and Dustin Diaz, Apress
 
-<a name="l-expressive-javascript"></a>
-## Expressive JavaScript [l-expressive-javascript]
+<a name="expressive-javascript"></a>
+## Expressive JavaScript
  - Flexibility
  - Loosely Typed Language
  - Functions as First-Class Objects
@@ -23,8 +23,8 @@ Pro JavaScript Design Patterns, Ross Harmes and Dustin Diaz, Apress
  - Inheritance
  - Design Patterns in JavaScript
 
-<a name="l-interfaces"></a>
-## Interfaces [l-interfaces]
+<a name="interfaces"></a>
+## Interfaces
  - What is an interface?
   - Benefits of using interfaces
   - Drawbacks of using interfaces
@@ -38,14 +38,14 @@ Pro JavaScript Design Patterns, Ross Harmes and Dustin Diaz, Apress
 <a name="module"></a>
 ## Module
 
-<a name="l-mvc"></a>
-## MV*, MVC, MVVM[l-mvc]
+<a name="mv-mvc-mvvm"></a>
+## MV*, MVC, MVVM
 
-<a name="l-singleton"></a>
-## Singleton[l-singleton]
+<a name="singleton"></a>
+## Singleton
 
-<a name="l-factory"></a>
-## Factory/template [l-factory]
+<a name="factorytemplate"></a>
+## Factory/template
 
-<a name="l-proxy"></a>
-## Proxy[l-proxy]
+<a name="proxy"></a>
+## Proxy
